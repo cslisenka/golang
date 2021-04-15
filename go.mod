@@ -1,3 +1,9 @@
+// This file is placed in root and declares go module
+// Module may have multiple packages
+// Module has version and dependencies (with versions)
+// Go automatically downloads all dependencies (resolves imports)
+// We may get list of dependencies by "go list -m all"
+// There is no central repository of go packages (like npm, pip or maven central), package is downloaded from URL
 module example.com/hello
 
 go 1.16

@@ -1,0 +1,7 @@
+1. Packages and modules - where located, how to publish, how to use
+https://www.youtube.com/watch?v=-BIDXOp6_LA
+2. Libraries - what is it? source files? binary files?
+- we compile go code to *.a files, we may distribute them as library
+3. Make a sample project - web app with JSON REST API and DB access
+https://github.com/Duncanian/go-rest-api/blob/develop/main.go
+https://dev.to/moficodes/build-your-first-rest-api-with-go-2gcj
